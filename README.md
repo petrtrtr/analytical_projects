@@ -19,9 +19,9 @@
 <td>Анализ тарифов мобильного оператора. Необходимо проанализировать поведение клиентов и сделать вывод — какой тариф лучше.</td>
 <td><b>pandas, numpy, seaborn, math, bisect, scipy, matplotlib</b></td>
 <tr>
-<td><a href="https://nbviewer.jupyter.org/github/Higem11/Yandex-Data-Analysis/blob/master/5%20%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%201%20-%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D0%B8.ipynb" target="_blank"><b>Сборный проект-1. Анализ игровой индустрии</b></td>
+<td><a href="https://nbviewer.jupyter.org/github/Higem11/Yandex-Data-Analysis/blob/master/5%20%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%201%20-%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D0%B8.ipynb" target="_blank"><b>Анализ игровой индустрии</b></td>
 <td>Интернет-магазин компьютерных игр и игр для консолей. Необходимо выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании.</td>
-<td><b>pandas, numpy, matplotlib, scipy, seaborn</b></td>
+<td><b>pandas, numpy, matplotlib, scipy, seaborn, math, pingouin, collections</b></td>
 
 </table>
 <br/><br/>
