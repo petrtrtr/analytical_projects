@@ -35,6 +35,6 @@
 </tr> <tr>
 <td><b>Исследование поведения пользователей мобильного приложения</b></td>
 <td>Проведение A/A/B тестирование, применение поправок, анализ результатов.</td>
-<td>pandas, numpy, matplotlib, scipy, seaborn, datetime, math<b>plotly</b></td>
+<td>pandas, numpy, matplotlib, scipy, seaborn, datetime, math, <b>plotly</b></td>
 </tr>
 </table>
