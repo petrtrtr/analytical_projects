@@ -33,7 +33,8 @@
 <td>Интернет-магазин. Задача - приоритизация гипотез, проведение анализа результатов А/В теста.</td>
 <td>pandas, numpy, matplotlib, scipy</td>
 </tr> <tr>
-<td><b>Исследование поведения пользователей мобильного приложения</b></td>
+<td><a href="https://nbviewer.jupyter.org/github/petrtrtr/projects_for_resume/blob/main/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%20%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F.ipynb" rel="nofollow">
+<b>Исследование поведения пользователей мобильного приложения</b></a></td>
 <td>Проведение A/A/B тестирование, применение поправок, анализ результатов.</td>
 <td>pandas, numpy, matplotlib, scipy, seaborn, datetime, math, <b>plotly</b></td>
 </tr>
