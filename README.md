@@ -6,11 +6,9 @@
 <td><b>Суть проекта</b></td>
 <td><b>Используемые библиотеки</b></td>
 </tr><tr>
-<td>
-<a href="https://nbviewer.jupyter.org/github/petrtrtr/projects_for_resume/blob/main/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%D0%B4%D0%B5%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B7%D0%B0%D0%B5%D0%BC%D1%89%D0%B8%D0%BA%D0%BE%D0%B2.ipynb" rel="nofollow">
+<td><a href="https://nbviewer.jupyter.org/github/petrtrtr/projects_for_resume/blob/main/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%D0%B4%D0%B5%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B7%D0%B0%D0%B5%D0%BC%D1%89%D0%B8%D0%BA%D0%BE%D0%B2.ipynb" rel="nofollow">
 <b>Исследование надежности заемщиков</b></a></td>
-<td>Заказчик — кредитный отдел банка. Нужно разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок. Входные данные от банка — статистика о платёжеспособности клиентов.
-Результаты исследования будут учтены при построении модели кредитного скоринга — специальной системы, которая оценивает способность потенциального заёмщика вернуть кредит банку. </td>
+<td>Заказчик — кредитный отдел банка. Необходимо выявить факторы, позволяющие предсказывать клиентами возврат кредитов. Цель — создание модели кредитного скоринга, оценивающей платежеспособность потенциальных заёмщиков, основанной выявленных факторах.</td>
 <td><b>pandas</b>, <b>numpy</b>, <b>termcolor</b>, <b>pymystem3</b>, <b>matplotlib</b></td>
 </tr> <tr>
 <td><a href="https://nbviewer.jupyter.org/github/petrtrtr/projects_for_resume/blob/main/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80.ipynb" rel="nofollow">
@@ -32,7 +30,7 @@
 <b>Принятие решений в бизнесе на основе данных</b></a></td>
 <td>Интернет-магазин. Задача - приоритизация гипотез, проведение анализа результатов А/В теста.</td>
 <td>pandas, numpy, matplotlib, scipy</td>
-</tr> <tr>
+</tr><tr>
 <td><a href="https://nbviewer.jupyter.org/github/petrtrtr/projects_for_resume/blob/main/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%20%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F.ipynb" rel="nofollow">
 <b>Исследование поведения пользователей мобильного приложения</b></a></td>
 <td>Проведение A/A/B тестирование, применение поправок, анализ результатов.</td>
