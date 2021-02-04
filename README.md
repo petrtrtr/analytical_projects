@@ -11,7 +11,7 @@
 <td>Заказчик — кредитный отдел банка. Необходимо выявить факторы, позволяющие предсказывать клиентами возврат кредитов. Цель — создание модели кредитного скоринга, оценивающей платежеспособность потенциальных заёмщиков, основанной выявленных факторах.</td>
 <td><b>pandas</b>, <b>numpy</b>, <b>termcolor</b>, <b>pymystem3</b>, <b>matplotlib</b></td>
 </tr><tr>
-<td><a href="https://nbviewer.jupyter.org/github/petrtrtr/projects_for_resume/blob/main/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80.ipynb" rel="nofollow">
+<td><a href="https://nbviewer.jupyter.org/github/petrtrtr/analytics_projects_Yandex_Practicum/blob/main/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80.ipynb" rel="nofollow">
 <b>Исследование объявлений о продаже квартир</b></a></td>
 <td>На основании данных о продаже квартир необходимо научиться отделять лживые предложения от настоящих. 
 Задача — выявить параметры, влияющие на финальную стоимость, для построения системы, отслеживающей аномалии и мошенническую деятельность. </td>
