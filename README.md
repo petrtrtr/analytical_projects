@@ -22,9 +22,9 @@
 <td>Анализ тарифов мобильного оператора. Необходимо проанализировать поведение клиентов и сделать вывод — какой тариф лучше.</td>
 <td>pandas, numpy, seaborn, math, plotly, bisect, <b>scipy</b>, matplotlib</td>
 </tr><tr>
-<td><a href="https://nbviewer.jupyter.org/github/petrtrtr/projects_for_resume/blob/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D0%B8.ipynb" rel="nofollow">
+<td><a href="https://nbviewer.jupyter.org/github/petrtrtr/analytics_projects_Yandex_Practicum/blob/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D0%B8/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D0%B8.ipynb" rel="nofollow">
 <b>Анализ игровой индустрии</b></a></td>
-<td>Интернет-магазин компьютерных игр и игр для консолей. Необходимо выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании.</td>
+<td>Интернет-магазин компьютерных игр и игр для консолей нуждается в выявлении закономерностей определяющих успешность игры. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании.</td>
 <td>pandas, numpy, matplotlib, scipy, seaborn, math, <b>pingouin, collections</b></td>
 </tr> <tr>
 <td><a href="https://nbviewer.jupyter.org/github/petrtrtr/projects_for_resume/blob/main/%D0%9F%D1%80%D0%B8%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%20%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%B2%20%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81%D0%B5%20%D0%BD%D0%B0%20%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B5%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.ipynb" rel="nofollow">
