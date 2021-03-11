@@ -42,13 +42,13 @@
 <td>Проведение анализа рынка общественного питания в Москве, выявление факторов влияющих на проходимость, определение признаков, отличающих успешные заведения.</td>
 <td>pandas, numpy, matplotlib, seaborn, <b>itertools, requests, re, API Yandex.Геокодер</b></td>
 </tr><tr>
-<td>
-<b>Прогнозирование оттока клиентов фитнес клуба</b></td>
+<td><a href="https://github.com/petrtrtr/analytics_projects_Yandex_Practicum/blob/main/%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D1%82%D1%82%D0%BE%D0%BA%D0%B0%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D1%84%D0%B8%D1%82%D0%BD%D0%B5%D1%81%20%D0%BA%D0%BB%D1%83%D0%B1%D0%B0/%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D1%82%D1%82%D0%BE%D0%BA%D0%B0%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D1%84%D0%B8%D1%82%D0%BD%D0%B5%D1%81%20%D0%BA%D0%BB%D1%83%D0%B1%D0%B0.ipynb" rel="nofollow">
+<b>Прогнозирование оттока клиентов фитнес клуба</b></a></td>
 <td>Клиенты из фитнес зала тихо уходят, прибыль падает. Задача - прогнозировать уходящих клиентов, выделить портреты типичных пользователей и факторы отличающие группы.</td>
 <td>pandas, numpy, matplotlib, seaborn, scipy, <b>warnings, sklearn</b></td>
 </tr><tr>
-<td>
-<b>Формирование модели монетизации игрового приложения</b></td>
+<td><a href="https://nbviewer.jupyter.org/github/petrtrtr/analytics_projects_Yandex_Practicum/blob/main/%D0%A4%D0%BE%D1%80%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%BC%D0%BE%D0%BD%D0%B5%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/%D0%A4%D0%BE%D1%80%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%BC%D0%BE%D0%BD%D0%B5%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F.ipynb" rel="nofollow">
+<b>Формирование модели монетизации игрового приложения</b></a></td>
 <td>Создатели приложения обратились за помощью в создании модели монетизации приложения.</td>
 <td> pandas, numpy, seaborn, warnings, requests, BytesIO, plotly, matplotlib.</td>
 </tr>
